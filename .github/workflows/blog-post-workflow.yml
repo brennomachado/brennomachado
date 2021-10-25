@@ -14,4 +14,10 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/brenno,http://blog.brennomachado.com/?feed=rss"
+          comment_tag_name: DEVTO
+          feed_list: "https://dev.to/feed/brenno"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOG
+          feed_list: "http://blog.brennomachado.com/?feed=rss"
+

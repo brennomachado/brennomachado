@@ -12,6 +12,10 @@
 <a href="#"><img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" /></a>
 
 ### Blog posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG:START -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:END -->
+
+<!-- DEVTO:START -->
+
+<!-- DEVTO:END -->
