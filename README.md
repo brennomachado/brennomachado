@@ -13,5 +13,5 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [15/10 – Dia do Professor](http://blog.brennomachado.com/index.php/2018/10/16/15-10/)
 <!-- BLOG-POST-LIST:END -->
