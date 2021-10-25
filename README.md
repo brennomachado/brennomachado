@@ -12,11 +12,12 @@
 <a href="#"><img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" /></a>
 
 ### Blog posts
-<<<<<<< HEAD
+
 <!-- BLOG:START -->
 
 <!-- BLOG:END -->
-
+---
+### DEV.TO posts
 <!-- DEVTO:START -->
 
 <!-- DEVTO:END -->
