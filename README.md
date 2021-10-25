@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Brenno Machado 🏳️‍🌈
-- 👀 I’m interested in education, technology and physics;
-- 📚 I’m currently learning javascript and some frameworks, like ReactJS and VueJS;
-- 💞️ I’m looking to collaborate on translations from English to Brazilian Portuguese;
+- 👀 I’m interested in education, technology and physics.
+- 💞️ I’m changing my career path, now I'm a teacher, in the future I'll be a teacher and developer 🤓; 
+- 📚 I’m currently learning JavaScript and some frameworks, like ReactJS and VueJS;
 - 📫 You can reach me on my profile on [Mastodon](https://masto.donte.com.br/@brenno), [Linkedin](https://www.linkedin.com/in/brennomachado/), [e-mail](mailto:brennomachado@protonmail.com?subject=[from%20GitHub]).
 
 ### Languages and Tools:
@@ -11,13 +11,13 @@
 <a href="#"><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" /></a>
 
-### Blog posts
+### 📝 Blog posts
 
 <!-- BLOG:START -->
 - [15/10 – Dia do Professor](http://blog.brennomachado.com/index.php/2018/10/16/15-10/)
 <!-- BLOG:END -->
 ---
-### DEV.TO posts
+### 📝 Dev.to posts
 <!-- DEVTO:START -->
 - [Hello, World!](https://dev.to/brenno/hello-world-1onk)
 <!-- DEVTO:END -->
