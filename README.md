@@ -13,5 +13,6 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello, World!](https://dev.to/brenno/hello-world-1onk)
 - [15/10 – Dia do Professor](http://blog.brennomachado.com/index.php/2018/10/16/15-10/)
 <!-- BLOG-POST-LIST:END -->
