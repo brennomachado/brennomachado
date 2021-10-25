@@ -6,11 +6,7 @@
 
 ### Languages and Tools:
 <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" /></a>
-
-[<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />(#) 
-
-[<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" />(#) 
-
-[<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" />(#) 
-
-[<img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />(#) 
+<a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat" /></a>
