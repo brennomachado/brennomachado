@@ -5,6 +5,7 @@
 - 📫 You can reach me on my profile on [Mastodon](https://masto.donte.com.br/@brenno), [Linkedin](https://www.linkedin.com/in/brennomachado/), [e-mail](mailto:brennomachado@protonmail.com?subject=[from%20GitHub]).
 
 ### Languages and Tools:
+<a href="#"><img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" /></a>
