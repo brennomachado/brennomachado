@@ -21,7 +21,6 @@
 ### 📝 Blog posts
 
 <!-- BLOG:START -->
-
 - [New professional path](https://blog.brennomachado.com/index.php/2021/11/01/new-professional-path/)
 - [15/10 – Dia do Professor](https://blog.brennomachado.com/index.php/2018/10/16/15-10/)
 <!-- BLOG:END -->
