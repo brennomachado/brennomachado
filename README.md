@@ -9,9 +9,9 @@
 
 ### Languages and Tools:
 
-- Operating systems: <img src="https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=flat" alt="Debian logo"/><img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat" alt="Ubuntu logo"/> <img src="https://img.shields.io/badge/-Pop!_OS-48B9C7?logo=popos&logoColor=white&style=flat" alt="Pop!_OS logo"/>
-- Tools: <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />
-- Skills: <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/-Rust-bdbdbe?logo=rust&logoColor=black&style=flat"/> <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" />
+- Operating systems: <a href="#"><img src="https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=flat" alt="Debian logo"/> </a><a href="#"><img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat" alt="Ubuntu logo"/> </a><a href="#"><img src="https://img.shields.io/badge/-Pop!_OS-48B9C7?logo=popos&logoColor=white&style=flat" alt="Pop!_OS logo"/></a>
+- Tools: <a href="#"><img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat" /></a>
+- Skills: <a href="#"><img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat"/></a> <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" /> </a> <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" /> </a> <a href="#"><img src="https://img.shields.io/badge/-Rust-bdbdbe?logo=rust&logoColor=black&style=flat"/> </a> <a href="#"><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" /> </a> <a href="#"><img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" /></a>
   
 
 ---
@@ -36,4 +36,4 @@
 ### 👀 See my learning progress at:
 
 - 💻 My annotations on the code school: [repo on github](https://github.com/brennomachado/DigitalHouse)
-- <img height="14" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"> My annotations repo about my learning process with Rust : [repo on github](https://github.com/brennomachado/learning-rust) 
+- <a href="#"><img height="14" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"></a> My annotations repo about my learning process with Rust : [repo on github](https://github.com/brennomachado/learning-rust) 
